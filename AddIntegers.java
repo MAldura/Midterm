@@ -2,7 +2,7 @@ public class AddIntegers {
 
     public static void main(String[] args) {
 
-        int first = 10;
+        int first = 50;
         int second = 20;
         int third = 25;
 
