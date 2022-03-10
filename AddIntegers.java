@@ -3,7 +3,7 @@ public class AddIntegers {
     public static void main(String[] args) {
 
         int first = 10;
-        int second = 30;
+        int second = 20;
         int third = 25;
 
         System.out.println("Enter two numbers: " + first + " " + second);
